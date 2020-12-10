@@ -1,0 +1,12 @@
+.logo {
+    width: 200px;
+    height:auto;
+}
+.box-model {
+    background-color: white;
+    width: 500px;
+    height: auto;
+    border: 1px solid lightgray;
+    padding: 50px;
+    margin: auto;
+  }
